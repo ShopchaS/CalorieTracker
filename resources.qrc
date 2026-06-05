@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>body_front.png</file>
+        <file>body_back.png</file>
+        <file>logo.png</file>
+        <file>mass.png</file>
+        <file>maintain.png</file>
+        <file>lose.png</file>
+    </qresource>
+</RCC>

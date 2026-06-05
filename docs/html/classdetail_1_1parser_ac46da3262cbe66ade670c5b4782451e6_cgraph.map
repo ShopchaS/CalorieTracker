@@ -1,0 +1,19 @@
+<map id="detail::parser::accept" name="detail::parser::accept">
+<area shape="rect" id="Node000001" title="public accept interface" alt="" coords="5,37,149,62"/>
+<area shape="rect" id="Node000002" href="$classdetail_1_1parser.html#ae9084759356689163fee9ae37e69b050" title=" " alt="" coords="197,29,322,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,47,184,49,179,50,149,52"/>
+<area shape="poly" id="edge9_Node000002_Node000002" title=" " alt="" coords="226,27,224,19,230,10,242,5,259,3,278,5,291,14,286,14,277,10,259,8,243,10,233,14,230,20,231,30"/>
+<area shape="rect" id="Node000003" href="$classdetail_1_1parse__error.html#a07046ea9f33d28f120af188ed674d6df" title="create a parse error exception" alt="" coords="370,29,495,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,47,357,49,352,50,323,52"/>
+<area shape="rect" id="Node000004" href="$namespacedetail.html#a266fb3d4bf633ad6c506434cc91164da" title=" " alt="" coords="748,37,847,62"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="493,26,543,15,622,7,700,15,753,31,747,31,699,20,622,12,544,20,495,31"/>
+<area shape="rect" id="Node000007" href="$classdetail_1_1exception.html#a6b4a786b5c1c25dd3edaceb1bf2d5120" title=" " alt="" coords="559,29,684,70"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="496,47,547,49,541,50,496,52"/>
+<area shape="rect" id="Node000008" href="$classdetail_1_1exception.html#a8f1eb56b9964c8dd84d89d0da98d883b" title=" " alt="" coords="543,94,700,120"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="496,66,565,89,560,89,496,71"/>
+<area shape="rect" id="Node000005" href="$namespacedetail.html#a89f967b745cf8df11ba9d59f93d97753" title=" " alt="" coords="902,12,1029,37"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="847,40,884,37,889,36,848,45"/>
+<area shape="rect" id="Node000006" href="$namespacedetail.html#ac185140ed8c8fcc07a302a890b714b0d" title=" " alt="" coords="895,61,1036,86"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="848,54,882,61,877,61,847,59"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="663,91,699,79,739,68,744,67,701,84,664,96"/>
+</map>

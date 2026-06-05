@@ -1,0 +1,12 @@
+<map id="doctest::AssertData" name="doctest::AssertData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,885,301,1094"/>
+<area shape="rect" id="Node000002" href="$structdoctest_1_1_test_case_data.html" title=" " alt="" coords="163,544,309,814"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,811,239,869,233,868,235,816"/>
+<area shape="rect" id="Node000003" href="$classdoctest_1_1_string.html" title=" " alt="" coords="17,183,125,473"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="38,476,31,553,29,640,39,729,49,772,63,813,81,847,105,879,160,933,155,935,101,882,77,850,58,815,44,773,33,730,24,640,26,553,38,470"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,441,168,529,163,530,125,446"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,136,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="71,110,73,166,68,166,71,115"/>
+<area shape="rect" id="Node000005" href="$classdoctest_1_1_assert_data_1_1_string_contains.html" title=" " alt="" coords="333,598,499,760"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="385,758,334,862,313,895,309,892,330,860,381,762"/>
+</map>

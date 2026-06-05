@@ -1,0 +1,15 @@
+<map id="doctest::ContextOptions" name="doctest::ContextOptions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="88,1266,241,1536"/>
+<area shape="rect" id="Node000002" href="$classstd_1_1basic__ostream.html" title=" " alt="" coords="5,1022,127,1119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,1116,108,1242,110,1250,105,1250,103,1243,75,1121"/>
+<area shape="rect" id="Node000003" href="$classdoctest_1_1_string.html" title=" " alt="" coords="250,183,358,473"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,476,218,647,198,743,183,838,172,945,166,1053,163,1250,158,1249,160,1053,166,944,178,838,193,742,213,646,261,471"/>
+<area shape="rect" id="Node000005" href="$structdoctest_1_1detail_1_1_test_case.html" title=" " alt="" coords="225,946,382,1195"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="305,471,306,930,301,929,302,475"/>
+<area shape="rect" id="Node000006" href="$structdoctest_1_1_test_case_data.html" title=" " alt="" coords="417,544,563,814"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="357,428,413,529,408,530,358,433"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="238,5,369,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="304,110,306,167,301,166,303,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="253,1193,230,1252,225,1250,250,1197"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="421,825,365,947,360,945,418,830"/>
+</map>

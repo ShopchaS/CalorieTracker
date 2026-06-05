@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,104,109,130"/>
+<area shape="rect" id="Node000001" href="$classdetail_1_1exception.html" title="general exception of the basic_json class" alt="" coords="157,104,273,130"/>
+<area shape="poly" id="edge134_Node000000_Node000001" title=" " alt="" coords="124,114,159,116,154,118,125,119"/>
+<area shape="rect" id="Node000002" href="$classdetail_1_1invalid__iterator.html" title="exception indicating errors with iterators" alt="" coords="321,5,465,31"/>
+<area shape="poly" id="edge135_Node000001_Node000002" title=" " alt="" coords="242,92,278,65,320,40,348,30,343,33,322,45,281,70,245,96"/>
+<area shape="rect" id="Node000003" href="$classdetail_1_1other__error.html" title="exception indicating other library errors" alt="" coords="332,55,454,80"/>
+<area shape="poly" id="edge136_Node000001_Node000003" title=" " alt="" coords="278,97,346,80,341,82,279,102"/>
+<area shape="rect" id="Node000004" href="$classdetail_1_1out__of__range.html" title="exception indicating access out of the defined range" alt="" coords="326,104,461,130"/>
+<area shape="poly" id="edge137_Node000001_Node000004" title=" " alt="" coords="288,114,328,116,323,117,289,119"/>
+<area shape="rect" id="Node000005" href="$classdetail_1_1parse__error.html" title="exception indicating a parse error" alt="" coords="330,153,456,179"/>
+<area shape="poly" id="edge138_Node000001_Node000005" title=" " alt="" coords="279,132,347,152,341,153,278,137"/>
+<area shape="rect" id="Node000006" href="$classdetail_1_1type__error.html" title="exception indicating executing a member function with a wrong type" alt="" coords="334,203,452,228"/>
+<area shape="poly" id="edge139_Node000001_Node000006" title=" " alt="" coords="244,137,281,164,322,189,348,202,343,202,320,194,278,168,243,142"/>
+</map>

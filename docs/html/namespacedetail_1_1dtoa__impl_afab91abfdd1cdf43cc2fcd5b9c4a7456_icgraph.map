@@ -1,0 +1,7 @@
+<map id="detail::dtoa_impl::format_buffer" name="detail::dtoa_impl::format_buffer">
+<area shape="rect" id="Node000001" title="prettify v = buf * 10^decimal_exponent" alt="" coords="164,29,288,70"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="251,13,242,10,226,8,210,10,201,14,198,20,199,30,194,27,192,19,198,11,209,5,226,3,244,5,256,14"/>
+<area shape="rect" id="Node000002" href="$namespacedetail.html#a3f0588f1a546b169113e6e1e293168f4" title="generates a decimal representation of the floating&#45;point number value in [first, last)." alt="" coords="5,37,116,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="145,50,116,52,116,47,151,49"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="87,22,79,18,60,15,43,17,34,22,32,28,37,36,32,37,27,28,30,19,42,12,61,10,81,13,92,21"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="WorkoutCalculator::generateDynamicPlan" name="WorkoutCalculator::generateDynamicPlan">
+<area shape="rect" id="Node000001" title="Генерирует текст тренировки." alt="" coords="153,72,302,113"/>
+<area shape="rect" id="Node000002" href="$tests_8cpp.html#a55525ecb2f2c0f753f085535d54f168c" title=" " alt="" coords="5,5,105,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,67,86,34,87,29,167,64"/>
+<area shape="rect" id="Node000003" href="$tests_8cpp.html#a14a790204b5194eca9ba6a3467b36dd9" title=" " alt="" coords="5,55,105,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,81,106,77,105,72,140,78"/>
+<area shape="rect" id="Node000004" href="$tests_8cpp.html#a9c53c4bf3eb2b96929d1d292e44eb0c2" title=" " alt="" coords="5,104,105,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,107,106,112,104,107,139,104"/>
+<area shape="rect" id="Node000005" href="$tests_8cpp.html#a7bd5db123c940824367d9d61616f109d" title=" " alt="" coords="5,153,105,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="166,120,88,155,86,150,161,119"/>
+</map>

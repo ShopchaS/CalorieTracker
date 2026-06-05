@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structstd_1_1char__traits.html" title=" " alt="" coords="5,17,171,42"/>
+<area shape="rect" id="Node000001" href="$structdetail_1_1char__traits_3_01signed_01char_01_4.html" title=" " alt="" coords="221,5,342,46"/>
+<area shape="poly" id="edge129_Node000000_Node000001" title=" " alt="" coords="186,25,223,26,218,28,187,30"/>
+<area shape="rect" id="Node000003" href="$structdetail_1_1char__traits_3_01unsigned_01char_01_4.html" title=" " alt="" coords="219,71,345,111"/>
+<area shape="poly" id="edge130_Node000000_Node000003" title=" " alt="" coords="146,45,221,70,216,72,145,50"/>
+<area shape="rect" id="Node000002" href="$structstd_1_1char__traits.html" title=" " alt="" coords="9,70,167,96"/>
+<area shape="poly" id="edge131_Node000002_Node000001" title=" " alt="" coords="148,63,223,43,218,44,149,68"/>
+<area shape="poly" id="edge132_Node000002_Node000003" title=" " alt="" coords="182,84,221,88,215,89,182,90"/>
+</map>

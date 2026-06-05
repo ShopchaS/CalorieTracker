@@ -1,0 +1,5 @@
+<map id="detail::is_compatible_integer_type_impl&lt; RealIntegerType, CompatibleNumberIntegerType, enable_if_t&lt; std::is_integral&lt; RealIntegerType &gt;::value &amp;&amp;std::is_integral&lt; CompatibleNumberIntegerType &gt;::value &amp;&amp;!std::is_same&lt; bool, CompatibleNumberIntegerType &gt;::value &gt; &gt;" name="detail::is_compatible_integer_type_impl&lt; RealIntegerType, CompatibleNumberIntegerType, enable_if_t&lt; std::is_integral&lt; RealIntegerType &gt;::value &amp;&amp;std::is_integral&lt; CompatibleNumberIntegerType &gt;::value &amp;&amp;!std::is_same&lt; bool, CompatibleNumberIntegerType &gt;::value &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,120,364,291"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="136,5,233,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,84,187,121,182,119,183,89"/>
+</map>

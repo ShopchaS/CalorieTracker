@@ -1,0 +1,17 @@
+<map id="detail::parser::sax_parse" name="detail::parser::sax_parse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,131,70"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="35,29,33,19,38,10,50,5,68,3,87,5,100,13,94,14,85,10,68,8,52,10,42,14,38,20,40,29"/>
+<area shape="rect" id="Node000002" href="$classdetail_1_1parse__error.html#a07046ea9f33d28f120af188ed674d6df" title="create a parse error exception" alt="" coords="179,29,304,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,47,166,49,161,51,131,52"/>
+<area shape="rect" id="Node000003" href="$namespacedetail.html#a266fb3d4bf633ad6c506434cc91164da" title=" " alt="" coords="556,37,656,62"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,26,352,15,430,7,509,15,561,31,556,31,508,20,430,12,352,20,303,31"/>
+<area shape="rect" id="Node000006" href="$classdetail_1_1exception.html#a6b4a786b5c1c25dd3edaceb1bf2d5120" title=" " alt="" coords="368,29,492,70"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="304,47,355,49,350,50,305,52"/>
+<area shape="rect" id="Node000007" href="$classdetail_1_1exception.html#a8f1eb56b9964c8dd84d89d0da98d883b" title=" " alt="" coords="352,94,508,120"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="305,66,374,89,369,89,304,71"/>
+<area shape="rect" id="Node000004" href="$namespacedetail.html#a89f967b745cf8df11ba9d59f93d97753" title=" " alt="" coords="711,12,838,37"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="656,40,693,37,698,36,657,45"/>
+<area shape="rect" id="Node000005" href="$namespacedetail.html#ac185140ed8c8fcc07a302a890b714b0d" title=" " alt="" coords="704,61,845,86"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="656,54,691,61,685,61,656,59"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="472,91,507,79,547,68,553,67,509,84,473,96"/>
+</map>

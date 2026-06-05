@@ -1,0 +1,5 @@
+<map id="MuscleMapWidget::paintEvent" name="MuscleMapWidget::paintEvent">
+<area shape="rect" id="Node000001" title="Обработчик отрисовки графики (картинки тела, полигонов выделения и текста)." alt="" coords="5,13,205,38"/>
+<area shape="rect" id="Node000002" href="$class_muscle_map_widget.html#a9cc2b5ccea3e6bcb335c30fe7cf91b54" title="Получить список названий всех выбранных пользователем групп мышц." alt="" coords="253,5,459,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,23,240,26,235,26,205,28"/>
+</map>

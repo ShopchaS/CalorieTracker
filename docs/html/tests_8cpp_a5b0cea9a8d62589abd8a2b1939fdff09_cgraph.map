@@ -1,0 +1,5 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,105,31"/>
+<area shape="rect" id="Node000002" href="$class_data_manager.html#a8422f3abfd9a56ba7f3b63f9856ed0fb" title="Загружает данные из JSON&#45;файла." alt="" coords="153,5,284,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,16,140,18,135,18,105,21"/>
+</map>

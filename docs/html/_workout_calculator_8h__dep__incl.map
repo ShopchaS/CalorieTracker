@@ -1,0 +1,18 @@
+<map id="WorkoutCalculator.h" name="WorkoutCalculator.h">
+<area shape="rect" id="Node000001" title="Калькулятор калорий и генератор тренировочных планов." alt="" coords="232,5,370,31"/>
+<area shape="rect" id="Node000002" href="$_main_window_8cpp.html" title="Реализация логики главного окна и взаимодействия с пользователем." alt="" coords="5,168,125,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,38,205,57,162,81,136,103,111,127,76,169,72,166,107,123,132,99,160,77,202,52,249,35"/>
+<area shape="rect" id="Node000003" href="$_main_window_8h.html" title="Заголовочный файл главного окна приложения." alt="" coords="172,79,278,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,44,240,81,236,77,279,40"/>
+<area shape="rect" id="Node000007" href="$_workout_calculator_8cpp.html" title="Реализация алгоритмов фитнес&#45;аналитики." alt="" coords="302,79,454,105"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="326,39,368,79,363,79,325,44"/>
+<area shape="rect" id="Node000008" href="$tests_8cpp.html" title="Модульные тесты для проверки ядра приложения." alt="" coords="478,79,553,105"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="352,34,482,78,477,79,352,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="188,115,89,169,86,165,190,110"/>
+<area shape="rect" id="Node000004" href="$moc___main_window_8cpp.html" title=" " alt="" coords="148,153,350,208"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="234,117,244,153,239,151,231,122"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html" title="Точка входа в приложение CalorieTracker &amp; Workout Planner." alt="" coords="373,168,448,193"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="269,108,364,150,392,167,387,167,361,155,269,114"/>
+<area shape="rect" id="Node000005" href="$_calorie_tracker__autogen_2mocs__compilation_8cpp.html" title=" " alt="" coords="145,256,353,297"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="251,222,251,258,247,255,247,226"/>
+</map>

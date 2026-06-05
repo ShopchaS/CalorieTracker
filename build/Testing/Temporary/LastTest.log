@@ -1,0 +1,423 @@
+Start testing: Jun 04 20:58 MSK
+----------------------------------------------------------
+1/20 Testing: CalculateCalories_Male
+1/20 Test: CalculateCalories_Male
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=CalculateCalories_Male"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"CalculateCalories_Male" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"CalculateCalories_Male" end time: Jun 04 20:58 MSK
+"CalculateCalories_Male" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/20 Testing: CalculateCalories_Female
+2/20 Test: CalculateCalories_Female
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=CalculateCalories_Female"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"CalculateCalories_Female" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"CalculateCalories_Female" end time: Jun 04 20:58 MSK
+"CalculateCalories_Female" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/20 Testing: CalculateCalories_HighActivity
+3/20 Test: CalculateCalories_HighActivity
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=CalculateCalories_HighActivity"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"CalculateCalories_HighActivity" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"CalculateCalories_HighActivity" end time: Jun 04 20:58 MSK
+"CalculateCalories_HighActivity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/20 Testing: GeneratePlan_Positive_IdealConditions
+4/20 Test: GeneratePlan_Positive_IdealConditions
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_Positive_IdealConditions"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_Positive_IdealConditions" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_Positive_IdealConditions" end time: Jun 04 20:58 MSK
+"GeneratePlan_Positive_IdealConditions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/20 Testing: GeneratePlan_Negative_CriticalCondition
+5/20 Test: GeneratePlan_Negative_CriticalCondition
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_Negative_CriticalCondition"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_Negative_CriticalCondition" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_Negative_CriticalCondition" end time: Jun 04 20:58 MSK
+"GeneratePlan_Negative_CriticalCondition" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/20 Testing: GeneratePlan_AfterMeal_AbsRestriction
+6/20 Test: GeneratePlan_AfterMeal_AbsRestriction
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_AfterMeal_AbsRestriction"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_AfterMeal_AbsRestriction" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_AfterMeal_AbsRestriction" end time: Jun 04 20:58 MSK
+"GeneratePlan_AfterMeal_AbsRestriction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/20 Testing: GeneratePlan_CalorieDeficit
+7/20 Test: GeneratePlan_CalorieDeficit
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_CalorieDeficit"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_CalorieDeficit" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_CalorieDeficit" end time: Jun 04 20:58 MSK
+"GeneratePlan_CalorieDeficit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/20 Testing: DataManager_ExceptionOnEmptyProfile
+8/20 Test: DataManager_ExceptionOnEmptyProfile
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=DataManager_ExceptionOnEmptyProfile"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"DataManager_ExceptionOnEmptyProfile" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 1 | 1 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"DataManager_ExceptionOnEmptyProfile" end time: Jun 04 20:58 MSK
+"DataManager_ExceptionOnEmptyProfile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/20 Testing: DataManager_ValidProfileAccess
+9/20 Test: DataManager_ValidProfileAccess
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=DataManager_ValidProfileAccess"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"DataManager_ValidProfileAccess" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"DataManager_ValidProfileAccess" end time: Jun 04 20:58 MSK
+"DataManager_ValidProfileAccess" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/20 Testing: DataManager_DeleteProfile
+10/20 Test: DataManager_DeleteProfile
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=DataManager_DeleteProfile"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"DataManager_DeleteProfile" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DataManager_DeleteProfile" end time: Jun 04 20:58 MSK
+"DataManager_DeleteProfile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/20 Testing: DataManager_SaveJSON
+11/20 Test: DataManager_SaveJSON
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=DataManager_SaveJSON"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"DataManager_SaveJSON" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 2 | 2 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"DataManager_SaveJSON" end time: Jun 04 20:58 MSK
+"DataManager_SaveJSON" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/20 Testing: DataManager_LoadJSON
+12/20 Test: DataManager_LoadJSON
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=DataManager_LoadJSON"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"DataManager_LoadJSON" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"DataManager_LoadJSON" end time: Jun 04 20:58 MSK
+"DataManager_LoadJSON" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/20 Testing: GeneratePlan_AutoPlan_MondayGroups
+13/20 Test: GeneratePlan_AutoPlan_MondayGroups
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_AutoPlan_MondayGroups"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_AutoPlan_MondayGroups" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 5 | 5 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_AutoPlan_MondayGroups" end time: Jun 04 20:58 MSK
+"GeneratePlan_AutoPlan_MondayGroups" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/20 Testing: GeneratePlan_AutoPlan_WednesdayGroups
+14/20 Test: GeneratePlan_AutoPlan_WednesdayGroups
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_AutoPlan_WednesdayGroups"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_AutoPlan_WednesdayGroups" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 5 | 5 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_AutoPlan_WednesdayGroups" end time: Jun 04 20:58 MSK
+"GeneratePlan_AutoPlan_WednesdayGroups" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/20 Testing: GeneratePlan_AutoPlan_FridayGroups
+15/20 Test: GeneratePlan_AutoPlan_FridayGroups
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_AutoPlan_FridayGroups"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_AutoPlan_FridayGroups" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 6 | 6 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_AutoPlan_FridayGroups" end time: Jun 04 20:58 MSK
+"GeneratePlan_AutoPlan_FridayGroups" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/20 Testing: GeneratePlan_SleepDeficit_ReducesExerciseCount
+16/20 Test: GeneratePlan_SleepDeficit_ReducesExerciseCount
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_SleepDeficit_ReducesExerciseCount"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_SleepDeficit_ReducesExerciseCount" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_SleepDeficit_ReducesExerciseCount" end time: Jun 04 20:58 MSK
+"GeneratePlan_SleepDeficit_ReducesExerciseCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/20 Testing: GeneratePlan_NormalSleep_ThreeExercisesPerGroup
+17/20 Test: GeneratePlan_NormalSleep_ThreeExercisesPerGroup
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_NormalSleep_ThreeExercisesPerGroup"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_NormalSleep_ThreeExercisesPerGroup" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_NormalSleep_ThreeExercisesPerGroup" end time: Jun 04 20:58 MSK
+"GeneratePlan_NormalSleep_ThreeExercisesPerGroup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/20 Testing: GeneratePlan_LowCalories_ReducesSets
+18/20 Test: GeneratePlan_LowCalories_ReducesSets
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_LowCalories_ReducesSets"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_LowCalories_ReducesSets" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 4 | 4 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_LowCalories_ReducesSets" end time: Jun 04 20:58 MSK
+"GeneratePlan_LowCalories_ReducesSets" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/20 Testing: GeneratePlan_ManualGroups_MultipleMuscles
+19/20 Test: GeneratePlan_ManualGroups_MultipleMuscles
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=GeneratePlan_ManualGroups_MultipleMuscles"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"GeneratePlan_ManualGroups_MultipleMuscles" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 5 | 5 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GeneratePlan_ManualGroups_MultipleMuscles" end time: Jun 04 20:58 MSK
+"GeneratePlan_ManualGroups_MultipleMuscles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/20 Testing: DataManager_SaveLoad_ProfileWithHistoryAndPlan
+20/20 Test: DataManager_SaveLoad_ProfileWithHistoryAndPlan
+Command: "/Users/shopcha/Desktop/ProjectAIP/build/RunTests" "--test-case=DataManager_SaveLoad_ProfileWithHistoryAndPlan"
+Directory: /Users/shopcha/Desktop/ProjectAIP/build
+"DataManager_SaveLoad_ProfileWithHistoryAndPlan" start time: Jun 04 20:58 MSK
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 1 | 1 passed | 0 failed | 19 skipped
+[doctest] assertions: 6 | 6 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"DataManager_SaveLoad_ProfileWithHistoryAndPlan" end time: Jun 04 20:58 MSK
+"DataManager_SaveLoad_ProfileWithHistoryAndPlan" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 04 20:58 MSK

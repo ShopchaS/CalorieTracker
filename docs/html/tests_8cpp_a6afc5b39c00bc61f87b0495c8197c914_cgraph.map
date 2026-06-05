@@ -1,0 +1,5 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,105,31"/>
+<area shape="rect" id="Node000002" href="$class_data_manager.html#a6f60d646451b196075b7df93dbd9654a" title="Возвращает текущий профиль." alt="" coords="153,5,300,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,16,140,18,135,18,105,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DataManager::current" name="DataManager::current">
+<area shape="rect" id="Node000001" title="Возвращает текущий профиль." alt="" coords="153,31,300,56"/>
+<area shape="rect" id="Node000002" href="$tests_8cpp.html#a6afc5b39c00bc61f87b0495c8197c914" title=" " alt="" coords="5,5,105,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,31,105,28,105,23,140,30"/>
+<area shape="rect" id="Node000003" href="$tests_8cpp.html#aaf3130ad569acc0a6e7f615fd6cb2398" title=" " alt="" coords="5,55,105,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,56,106,63,105,58,140,56"/>
+</map>

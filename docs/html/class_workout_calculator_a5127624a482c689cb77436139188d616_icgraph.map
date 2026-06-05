@@ -1,0 +1,9 @@
+<map id="WorkoutCalculator::calculateDailyCalories" name="WorkoutCalculator::calculateDailyCalories">
+<area shape="rect" id="Node000001" title="Расчет нормы калорий." alt="" coords="153,47,304,88"/>
+<area shape="rect" id="Node000002" href="$tests_8cpp.html#a20c71861d62de85f9f7287809b0a7734" title=" " alt="" coords="5,5,105,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,43,103,34,102,29,143,41"/>
+<area shape="rect" id="Node000003" href="$tests_8cpp.html#a9a4e4203d656c13be71e28ece4c9de07" title=" " alt="" coords="5,55,105,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,68,106,70,105,65,140,67"/>
+<area shape="rect" id="Node000004" href="$tests_8cpp.html#ab5990af6dc7b90e176b5c76f8dfe390d" title=" " alt="" coords="5,104,105,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,92,103,106,102,101,137,93"/>
+</map>

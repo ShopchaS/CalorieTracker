@@ -1,0 +1,5 @@
+<map id="MainWindow" name="MainWindow">
+<area shape="rect" id="Node000001" title="Класс главного окна приложения CalorieTracker." alt="" coords="5,120,120,206"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,5,111,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,84,65,120,60,119,62,89"/>
+</map>

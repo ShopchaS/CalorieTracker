@@ -1,0 +1,26 @@
+<map id="json.hpp" name="json.hpp">
+<area shape="rect" id="Node000001" title="Сторонняя библиотека для работы с форматом JSON. Библиотека: JSON for Modern C++ (version 3...." alt="" coords="353,5,423,31"/>
+<area shape="rect" id="Node000002" href="$_core_data_8h.html" title="Определение структур данных и менеджера профилей." alt="" coords="344,79,432,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,44,391,79,386,78,387,49"/>
+<area shape="rect" id="Node000003" href="$_calculator_8h.html" title="Вспомогательные математические функции." alt="" coords="207,153,297,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,114,277,154,274,150,354,110"/>
+<area shape="rect" id="Node000004" href="$_main_window_8h.html" title="Заголовочный файл главного окна приложения." alt="" coords="233,226,338,252"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="373,116,296,228,292,224,369,119"/>
+<area shape="rect" id="Node000009" href="$_workout_calculator_8h.html" title="Калькулятор калорий и генератор тренировочных планов." alt="" coords="372,153,511,178"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="407,114,435,152,430,152,406,120"/>
+<area shape="rect" id="Node000011" href="$tests_8cpp.html" title="Модульные тесты для проверки ядра приложения." alt="" coords="589,226,664,252"/>
+<area shape="poly" id="edge13_Node000002_Node000011" title=" " alt="" coords="436,108,480,127,524,150,577,189,618,226,612,226,574,193,521,155,478,132,436,113"/>
+<area shape="rect" id="Node000005" href="$_main_window_8cpp.html" title="Реализация логики главного окна и взаимодействия с пользователем." alt="" coords="332,315,452,341"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,259,380,314,374,314,311,264"/>
+<area shape="rect" id="Node000006" href="$moc___main_window_8cpp.html" title=" " alt="" coords="9,300,210,356"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="245,261,166,302,164,297,249,258"/>
+<area shape="rect" id="Node000008" href="$main_8cpp.html" title="Точка входа в приложение CalorieTracker &amp; Workout Planner." alt="" coords="234,315,308,341"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="283,265,275,316,271,313,279,269"/>
+<area shape="rect" id="Node000007" href="$_calorie_tracker__autogen_2mocs__compilation_8cpp.html" title=" " alt="" coords="5,404,214,444"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="111,370,112,404,107,402,108,373"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="399,187,313,228,311,223,404,184"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="423,189,404,227,395,275,394,316,389,313,389,274,399,225,420,192"/>
+<area shape="rect" id="Node000010" href="$_workout_calculator_8cpp.html" title="Реализация алгоритмов фитнес&#45;аналитики." alt="" coords="413,226,566,252"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="459,189,484,226,479,225,457,194"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="487,182,598,225,593,226,487,187"/>
+</map>

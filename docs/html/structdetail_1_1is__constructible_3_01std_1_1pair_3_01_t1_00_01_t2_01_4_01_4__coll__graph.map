@@ -1,0 +1,13 @@
+<map id="detail::is_constructible&lt; std::pair&lt; T1, T2 &gt; &gt;" name="detail::is_constructible&lt; std::pair&lt; T1, T2 &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,423,218,505"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,279,137,375"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,386,127,424,122,424,104,391"/>
+<area shape="rect" id="Node000003" href="$structdetail_1_1is__default__constructible_3_01std_1_1pair_3_01_t1_00_01_t2_01_4_01_4.html" title=" " alt="" coords="161,279,283,375"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,387,170,426,166,422,186,390"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="31,135,205,216"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="154,226,192,279,187,280,153,231"/>
+<area shape="rect" id="Node000005" href="$structdetail_1_1conjunction.html" title=" " alt="" coords="228,120,423,231"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="281,241,256,281,252,278,278,245"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="280,5,371,72"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="327,84,328,121,323,119,325,89"/>
+</map>

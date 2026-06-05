@@ -1,0 +1,9 @@
+/Users/shopcha/Desktop/ProjectAIP/build/CMakeFiles/CalorieTracker.dir
+/Users/shopcha/Desktop/ProjectAIP/build/CMakeFiles/RunTests.dir
+/Users/shopcha/Desktop/ProjectAIP/build/CMakeFiles/test.dir
+/Users/shopcha/Desktop/ProjectAIP/build/CMakeFiles/edit_cache.dir
+/Users/shopcha/Desktop/ProjectAIP/build/CMakeFiles/rebuild_cache.dir
+/Users/shopcha/Desktop/ProjectAIP/build/CMakeFiles/CalorieTracker_autogen_timestamp_deps.dir
+/Users/shopcha/Desktop/ProjectAIP/build/CMakeFiles/CalorieTracker_autogen.dir
+/Users/shopcha/Desktop/ProjectAIP/build/CMakeFiles/RunTests_autogen_timestamp_deps.dir
+/Users/shopcha/Desktop/ProjectAIP/build/CMakeFiles/RunTests_autogen.dir

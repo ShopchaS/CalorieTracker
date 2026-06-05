@@ -1,0 +1,13 @@
+<map id="detail::parse_error::create" name="detail::parse_error::create">
+<area shape="rect" id="Node000001" title="create a parse error exception" alt="" coords="383,79,508,120"/>
+<area shape="rect" id="Node000002" href="$classdetail_1_1parser.html#a59f4b745d4aa146bf7a60a30060f592f" title="public parser interface" alt="" coords="198,5,334,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,72,334,46,306,34,305,29,336,41,396,71"/>
+<area shape="rect" id="Node000003" href="$classdetail_1_1binary__reader.html#a8e1b5452ae426e1d7b48761859e7f52d" title=" " alt="" coords="197,79,335,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="365,100,336,102,335,97,370,99"/>
+<area shape="rect" id="Node000004" href="$classdetail_1_1parser.html#ae9084759356689163fee9ae37e69b050" title=" " alt="" coords="203,168,328,209"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="392,127,309,171,307,166,387,128"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="293,64,284,60,266,58,249,60,239,64,235,70,236,80,232,77,230,69,235,60,248,55,266,53,286,55,299,64"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="293,153,284,149,266,147,249,149,239,154,235,160,236,169,232,166,230,159,235,150,248,144,266,142,286,144,299,153"/>
+<area shape="rect" id="Node000005" href="$classdetail_1_1parser.html#ac46da3262cbe66ade670c5b4782451e6" title="public accept interface" alt="" coords="5,176,149,202"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="185,189,149,191,149,186,190,189"/>
+</map>

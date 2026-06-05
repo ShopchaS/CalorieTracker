@@ -1,0 +1,5 @@
+<map id="MuscleMapWidget::getSelectedGroups" name="MuscleMapWidget::getSelectedGroups">
+<area shape="rect" id="Node000001" title="Получить список названий всех выбранных пользователем групп мышц." alt="" coords="253,5,459,46"/>
+<area shape="rect" id="Node000002" href="$class_muscle_map_widget.html#a6c0a55e43ba24a65febbfdfa26cde173" title="Обработчик отрисовки графики (картинки тела, полигонов выделения и текста)." alt="" coords="5,13,205,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,26,205,28,205,23,240,26"/>
+</map>

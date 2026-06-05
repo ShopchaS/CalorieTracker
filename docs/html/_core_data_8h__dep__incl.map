@@ -1,0 +1,24 @@
+<map id="CoreData.h" name="CoreData.h">
+<area shape="rect" id="Node000001" title="Определение структур данных и менеджера профилей." alt="" coords="344,5,432,31"/>
+<area shape="rect" id="Node000002" href="$_calculator_8h.html" title="Вспомогательные математические функции." alt="" coords="207,79,297,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,40,277,81,274,76,354,37"/>
+<area shape="rect" id="Node000003" href="$_main_window_8h.html" title="Заголовочный файл главного окна приложения." alt="" coords="233,153,338,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="373,42,296,154,292,150,369,45"/>
+<area shape="rect" id="Node000008" href="$_workout_calculator_8h.html" title="Калькулятор калорий и генератор тренировочных планов." alt="" coords="372,79,511,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="407,41,435,79,430,78,406,46"/>
+<area shape="rect" id="Node000010" href="$tests_8cpp.html" title="Модульные тесты для проверки ядра приложения." alt="" coords="589,153,664,178"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="436,34,480,53,524,77,577,115,618,153,612,152,574,120,521,81,478,58,436,40"/>
+<area shape="rect" id="Node000004" href="$_main_window_8cpp.html" title="Реализация логики главного окна и взаимодействия с пользователем." alt="" coords="332,241,452,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,186,380,241,374,241,311,191"/>
+<area shape="rect" id="Node000005" href="$moc___main_window_8cpp.html" title=" " alt="" coords="9,226,210,282"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="245,187,166,228,164,223,249,184"/>
+<area shape="rect" id="Node000007" href="$main_8cpp.html" title="Точка входа в приложение CalorieTracker &amp; Workout Planner." alt="" coords="234,241,308,267"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="283,192,275,242,271,240,279,196"/>
+<area shape="rect" id="Node000006" href="$_calorie_tracker__autogen_2mocs__compilation_8cpp.html" title=" " alt="" coords="5,330,214,371"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="111,296,112,331,107,329,108,300"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="399,113,313,154,311,150,404,110"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="423,115,404,154,395,201,394,242,389,239,389,201,399,152,420,119"/>
+<area shape="rect" id="Node000009" href="$_workout_calculator_8cpp.html" title="Реализация алгоритмов фитнес&#45;аналитики." alt="" coords="413,153,566,178"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="459,115,484,153,479,152,457,120"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="487,108,598,152,593,152,487,113"/>
+</map>

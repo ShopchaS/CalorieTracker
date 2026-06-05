@@ -1,0 +1,29 @@
+<map id="build/CalorieTracker_autogen/EWIEGA46WW/moc_MuscleMapWidget.cpp" name="build/CalorieTracker_autogen/EWIEGA46WW/moc_MuscleMapWidget.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="657,5,858,61"/>
+<area shape="rect" id="Node000002" href="$_muscle_map_widget_8h.html" title="Кастомный виджет интерактивной карты мышц." alt="" coords="316,109,492,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="659,59,469,107,468,102,654,60"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="516,109,655,135"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="706,61,624,104,622,99,701,62"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="679,109,836,135"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="759,59,760,95,755,92,756,63"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="859,109,928,135"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="801,59,864,101,859,100,800,64"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="952,109,1112,135"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="844,59,982,104,976,104,844,64"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,183,78,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,138,93,185,92,179,334,133"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,183,206,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="364,135,211,181,210,175,359,135"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="229,183,302,208"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="383,135,304,178,302,173,378,136"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="325,183,382,208"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="398,134,372,172,369,168,393,136"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="405,183,504,208"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="414,133,440,171,435,169,411,137"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="529,183,615,208"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="433,133,532,176,527,176,432,138"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="640,183,739,208"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="453,133,629,178,623,179,452,138"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="764,183,826,208"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="487,133,607,152,751,182,746,182,606,158,487,138"/>
+</map>

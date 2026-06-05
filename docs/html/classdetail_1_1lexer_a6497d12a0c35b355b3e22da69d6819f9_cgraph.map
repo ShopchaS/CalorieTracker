@@ -1,0 +1,10 @@
+<map id="detail::lexer::scan" name="detail::lexer::scan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,130,60"/>
+<area shape="rect" id="Node000002" href="$classdetail_1_1lexer.html#a04ae0c7807a761f4162ff42290be5490" title="skip the UTF&#45;8 byte order mark" alt="" coords="178,5,330,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,35,165,32,160,33,131,40"/>
+<area shape="rect" id="Node000004" href="$classdetail_1_1lexer.html#a230468eb9130a7173e0636fc1fc5606b" title=" " alt="" coords="194,55,314,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,54,181,64,176,65,130,59"/>
+<area shape="rect" id="Node000003" href="$namespacedetail.html#a7116703ea757fe9821bf2e903b91c160" title=" " alt="" coords="378,35,456,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,29,365,38,360,38,329,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="314,63,360,57,365,56,315,68"/>
+</map>

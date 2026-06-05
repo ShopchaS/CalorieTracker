@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGET_CalorieTracker_FILE /Users/shopcha/Desktop/ProjectAIP/build/CalorieTracker)
+set(__QT_DEPLOY_TARGET_CalorieTracker_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_RunTests_FILE /Users/shopcha/Desktop/ProjectAIP/build/RunTests)
+set(__QT_DEPLOY_TARGET_RunTests_TYPE EXECUTABLE)

@@ -1,0 +1,19 @@
+<map id="MuscleMapWidget.h" name="MuscleMapWidget.h">
+<area shape="rect" id="Node000001" title="Кастомный виджет интерактивной карты мышц." alt="" coords="162,5,302,31"/>
+<area shape="rect" id="Node000002" href="$_main_window_8cpp.html" title="Реализация логики главного окна и взаимодействия с пользователем." alt="" coords="5,198,125,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,38,123,56,94,81,77,110,69,142,67,198,61,197,64,142,73,108,90,77,120,51,158,34"/>
+<area shape="rect" id="Node000003" href="$_main_window_8h.html" title="Заголовочный файл главного окна приложения." alt="" coords="103,94,208,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,45,168,95,164,92,213,41"/>
+<area shape="rect" id="Node000007" href="$_muscle_map_widget_8cpp.html" title="Реализация отрисовки и хит&#45;тестов для карты мышц." alt="" coords="232,94,386,120"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="253,40,301,93,296,94,252,45"/>
+<area shape="rect" id="Node000008" href="$moc___muscle_map_widget_8cpp.html" title=" " alt="" coords="410,79,611,135"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="286,33,425,77,420,79,286,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="134,133,78,199,74,196,136,129"/>
+<area shape="rect" id="Node000004" href="$moc___main_window_8cpp.html" title=" " alt="" coords="148,183,350,238"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="177,129,227,182,221,182,176,134"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html" title="Точка входа в приложение CalorieTracker &amp; Workout Planner." alt="" coords="373,198,448,223"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="197,123,221,132,292,155,363,180,393,197,388,197,361,185,291,160,219,137,198,129"/>
+<area shape="rect" id="Node000005" href="$_calorie_tracker__autogen_2mocs__compilation_8cpp.html" title=" " alt="" coords="262,286,470,327"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="296,246,344,286,339,285,294,251"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="503,148,487,195,462,240,435,267,404,288,402,283,431,263,458,237,483,193,499,151"/>
+</map>

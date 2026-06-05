@@ -1,0 +1,22 @@
+CoreTests 1 0.411016
+CalculateCalories_Male 1 0.42706
+CalculateCalories_Female 1 0.0216294
+CalculateCalories_HighActivity 1 0.0195147
+GeneratePlan_Positive_IdealConditions 1 0.0180645
+GeneratePlan_Negative_CriticalCondition 1 0.0160037
+GeneratePlan_AfterMeal_AbsRestriction 1 0.0168727
+GeneratePlan_CalorieDeficit 1 0.0153677
+DataManager_ExceptionOnEmptyProfile 1 0.0153374
+DataManager_ValidProfileAccess 1 0.015965
+DataManager_DeleteProfile 1 0.0149804
+DataManager_SaveJSON 1 0.0162129
+DataManager_LoadJSON 1 0.0159633
+GeneratePlan_AutoPlan_MondayGroups 1 0.0152711
+GeneratePlan_AutoPlan_WednesdayGroups 1 0.0159786
+GeneratePlan_AutoPlan_FridayGroups 1 0.0153899
+GeneratePlan_SleepDeficit_ReducesExerciseCount 1 0.0148779
+GeneratePlan_NormalSleep_ThreeExercisesPerGroup 1 0.0157755
+GeneratePlan_LowCalories_ReducesSets 1 0.0147062
+GeneratePlan_ManualGroups_MultipleMuscles 1 0.0148708
+DataManager_SaveLoad_ProfileWithHistoryAndPlan 1 0.0172691
+---
